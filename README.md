@@ -1,2 +1,2 @@
-# Stepic_adaptive
+# Stepik_adaptive
 My solutions
